@@ -66,6 +66,11 @@ Make sure you have Rust installed. [Install Rust here](https://www.rust-lang.org
 
 ---
 
+## Demo
+https://github.com/user-attachments/assets/1c56b8f1-c348-41f7-8bcb-4c56af8fe2df
+
+---
+
 ## Contributing
 
 Contributions are welcome! If you want to help implement upcoming phases or optimize performance, feel free to open a pull request.
@@ -75,7 +80,4 @@ Contributions are welcome! If you want to help implement upcoming phases or opti
 ## License
 
 MIT License © 2025
-
-## Demo
-https://github.com/user-attachments/assets/1c56b8f1-c348-41f7-8bcb-4c56af8fe2df
 
